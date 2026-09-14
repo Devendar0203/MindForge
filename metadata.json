@@ -1,0 +1,6 @@
+{
+  "name": "30-Day Rebuild",
+  "description": "A disciplined 30-day curriculum tracker for technical mastery, daily non-negotiable habits, deep skill blocks, and nighttime psychological reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
